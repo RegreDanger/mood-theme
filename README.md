@@ -74,7 +74,7 @@ flowchart TD
 
 Download the pre-compiled binary for your operating system:
 
-1. Go to the [Releases](https://www.google.com/search?q=https://github.com/RegreDanger/MoodTheme/releases "null") page.
+1. Go to the [Releases](https://github.com/RegreDanger/mood-theme/releases) page.
 2. Download the binary matching your OS (`moodtheme-windows.exe`, `moodtheme-mac`, `moodtheme-linux`).
 3. Place it in a dedicated folder (e.g., `Documents/MoodTheme`).
 
@@ -189,4 +189,4 @@ See the `LICENSE` file for full legal details.
 
 ## 📞 Support
 
-Built with ❤️ by [RegreDanger](https://www.google.com/search?q=https://github.com/RegreDanger "null")
+Built with ❤️ by [RegreDanger](https://github.com/RegreDanger)
