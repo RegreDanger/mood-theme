@@ -19,6 +19,8 @@ func main() {
 
 	filepath := flag.String("themes", "./example_themes.json", "Absolute path to themes.json")
 
+	flag.Parse()
+
 	if err := data.LoadData(*filepath); err != nil {
 		fmt.Println("Warning: Cannot read json themes", err)
 	}
