@@ -1,0 +1,18 @@
+{
+    "Themes": [
+        {
+            "theme_name": "VS Code Light",
+            "songs": [
+                "Umbrella",
+                "As If It's Your Last"
+            ]
+        },
+        {
+            "theme_name": "VS Code Dark",
+            "songs": [
+                "After Dark",
+                "Everglow"
+            ]
+        }
+    ]
+}
